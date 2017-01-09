@@ -1,0 +1,35 @@
+Unit 20 Lesson 5 (阅读五) 
+汉字
+         汉字是世界上最古老的文字之一，也是世界上使用人数最多的文字。汉字的数量很多，总数约6万个，其中常用字约6000个。
+
+        汉字有悠久的历史。目前发现的最古老的汉字，是距今3400多年前的甲骨文，它们已是很成熟的文字。据科学家推算，汉字的历史有5000年左右。
+
+        汉字起源于记事图画。从古到今，汉字的形体发生了很大的变化，经历了甲骨文、金文、小篆、隶书、楷书等字体的演变。现行汉字的通行字体是楷书。
+  汉字的造字方法，主要有以下四种：
+
+        象形：是指画出事物形状的造字法。如 “日”字原来就是一个象形字日。
+
+        指事：在象形字上加指事符号，或完全用符号组成字的造字法。如：“刃-刃”字的写法，就是在刀锋上加一点儿，指出刀刃所在―。
+
+        会意：把两个或两个以上的符号组合起来，表示一个新的意义的造字法。如：“休-休”，一个人靠在树旁，表示休息的意思。
+
+        形声：用形旁和声旁组成新字的造字法。形旁，是表示字的意义和属性的偏旁。声旁，是表示字音的偏旁。如：“湖”字，“氵”是形旁表示水，胡是声旁。大多数汉字都是形声字。
+
+        历史上，汉字曾被朝鲜、日本、越南等国家长期借用，促进了国际交流。在当代，中国人以多种方式解决了汉字进入计算机、为信息处理服务的问题。
+〈《中国文化常识》语言文字篇，国务院侨务办公室，中国海外交流协会，香港中国旅游出版社，2004年版。字数：501)甲骨文【jiǎgǔwén】 inscriptions on bones or tortoise shells of the Shang Dynasty (c. 16th - 11th century B.C.).
+
+  金文【jīnwén】 inscriptions on ancient bronze objects.
+
+  小篆【xiǎozhuàn】 an ancient style of calligraphy, adopted in the Qin Dynasty (221-207 B.C.) for the purpose of standardizing the script.
+
+  隶书【lìshū】 official script.
+
+  楷书【kǎishū】 (in Chinese calligraphy) regular script.
+
+  刀锋【dāofēng】 the point or edge of a knife.属性【shǔxìng】 <logic> attribute; property.
+
+  朝鲜【Cháoxiān】 Korea.
+
+  越南【Yuènán】 Vietnam.
+
+  计算机【jìsuànjī】 computer; calculating machine.
